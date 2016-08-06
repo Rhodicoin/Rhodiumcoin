@@ -3,23 +3,23 @@ Rhodium integration/staging tree
 
 http://www.rhodium.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Rhodium Developers
+Copyright (c) 2009-2016 Bitcoin Developers
+Copyright (c) 2011-2016 Rhodium Developers
 
 What is Rhodium?
 ----------------
 
 Rhodium is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 10 minute block targets
+ - subsidy halves in 210k blocks (~4 years)
+ - ~ 437500 total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 1 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Rhodium client sofware, see http://www.rhodium.org.
+the Rhodium client sofware, see http://www.rhodiumcoin.tech
 
 License
 -------
