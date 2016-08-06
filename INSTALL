@@ -1,0 +1,9 @@
+Building Rhodium
+
+See doc/readme-qt.rst for instructions on building Rhodium-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Rhodium.
+
+See doc/build-*.txt for instructions on building rhodiumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Rhodium.
