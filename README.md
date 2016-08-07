@@ -1,7 +1,7 @@
 Rhodium integration/staging tree
 ================================
 
-http://www.rhodium.org
+http://www.rhodiumcoin.tech
 
 Copyright (c) 2009-2016 Bitcoin Developers
 Copyright (c) 2011-2016 Rhodium Developers
